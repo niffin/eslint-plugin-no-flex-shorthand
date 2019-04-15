@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-flex-shorthand",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "no flex shorthand css-in-js declarations",
   "keywords": [
     "eslint",
